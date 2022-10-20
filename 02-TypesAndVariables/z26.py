@@ -1,0 +1,6 @@
+a = input("Podaj bok a " )
+b = input("Podaj bok b " )
+c = input("Podaj bok c " )
+p = ((a + b + c)/2)
+print(p)
+print()
